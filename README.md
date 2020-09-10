@@ -1,2 +1,2 @@
-# SpaisX
+# SpasX
 сайт
